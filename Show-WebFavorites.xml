@@ -23,9 +23,9 @@
         </browser>
     </browsers>
     <favorites>
-        <favorite name="Epic Environment List">
+        <favorite name="Google">
             <prefbrowser>firefox</prefbrowser>
-            <url>https://sp2013.hchd.local/teams/it/emr/Technical%20Services/Epic%20Testing/SitePages/Epic%20Environments.aspx</url>
+            <url>https://google.com</url>
         </favorite>
     </favorites>
 </root>
