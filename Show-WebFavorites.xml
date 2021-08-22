@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<root>
+    <browsers>
+        <browser name="ie">
+            <path>C:\Program Files\Internet Explorer\iexplore.exe</path>
+            <workingdirectory>C:\Program Files\Internet Explorer</workingdirectory>
+            <incognito>-private</incognito>
+        </browser>
+        <browser name="chrome">
+            <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+            <workingdirectory>C:\Program Files (x86)\Google\Chrome\Application</workingdirectory>
+            <incognito>--incognito</incognito>
+        </browser>
+        <browser name="firefox">
+            <path>C:\Program Files\Mozilla Firefox\firefox.exe</path>
+            <workingdirectory>C:\Program Files\Mozilla Firefox</workingdirectory>
+            <incognito>-private</incognito>
+        </browser>
+        <browser name="edge">
+            <path>C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</path>
+            <workingdirectory>C:\Program Files (x86)\Microsoft\Edge\Application</workingdirectory>
+            <incognito>-inprivate</incognito>
+        </browser>
+    </browsers>
+    <favorites>
+        <favorite name="Epic Environment List">
+            <prefbrowser>firefox</prefbrowser>
+            <url>https://sp2013.hchd.local/teams/it/emr/Technical%20Services/Epic%20Testing/SitePages/Epic%20Environments.aspx</url>
+        </favorite>
+    </favorites>
+</root>
